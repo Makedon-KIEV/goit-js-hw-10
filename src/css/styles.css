@@ -34,7 +34,7 @@
     max-width: 280px;
     margin-bottom: 16px;
     outline: none;
-    border: lime solid 1px;
+    border: rgb(219, 135, 201) solid 1px;
     border-radius: 5px;
     color: #000000;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -56,7 +56,7 @@
     justify-content: left;
     padding: 8px;
     align-items: center;
-    border: lime solid 1px;
+    border: rgb(231, 132, 173) solid 1px;
     border-radius: 5px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   }
@@ -87,7 +87,7 @@
   
   .country__container {
     padding: 12px;
-    border: lime solid 1px;
+    border: rgb(69, 50, 236) solid 1px;
     border-radius: 5px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   }
